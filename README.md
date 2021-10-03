@@ -1,2 +1,3 @@
-Branch feature/fromGitHub created in GitHub
-some text from my local
+// Branch feature/fromGitHub created in GitHub
+##########
+Más texto desde branchA
