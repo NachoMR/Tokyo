@@ -1,8 +1,9 @@
-# Privacy Rules v.3.0
+# Privacy Rules v.4.0
 1- secret passwords
-2- 3FA
+2- 4FA
     2.1- normal login
     2.2- One Time Code
     2.3- Google Authenticator
+    2.4- Express Postal Mail at your doorstep
 3- Password Manager
 4- Automatic password reset every 4 months
