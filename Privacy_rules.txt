@@ -4,6 +4,6 @@
     2.1- normal login
     2.2- One Time Code
     2.3- Google Authenticator
-    2.4- Express Postal Mail at your doorstep
+    2.4- Pigeon at your doorstep
 3- Password Manager
 4- Automatic password reset every 4 months
